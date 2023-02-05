@@ -35,44 +35,33 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita-quartZ&theme=github_dark"/>
 </div>
 
+## ℹ️ Examples workflows
 
-name: 📅 Isometric commit calendar
-category: github
-description: |
- This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.
-examples:
-  +full year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg
-  half year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg
-index: 0
-supports:
- - user
-scopes:
- - public_access
-inputs:
+<!--examples-->
+```yaml
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
 
-  plugin_isocalendar:
-    description: |
- Enable isocalendar plugin
-    type: boolean
-    default: no
+```
+```yaml
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
 
-  plugin_isocalendar_duration:
-    description: |
- Time range
- - `half-year`: 180 days
- - `full-year`: 1 year
-    type: string
-    default: half-year
-    values:
- half-year
- full-year
+```
+<!--/examples-->
 
 <!-- ### Hi there 👋
-- 🐍 Frontend vue developer
-
-**Nikita-quartZ/Nikita-quartZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
