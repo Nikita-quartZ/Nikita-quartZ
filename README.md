@@ -10,8 +10,8 @@
 
 ### About me
 - 🌱 I’m currently learning **Vue 3, Nuxt, Vite**
--  Frontend vue developer
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp; Frontend vue developer
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-quartZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita-quartZ)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
