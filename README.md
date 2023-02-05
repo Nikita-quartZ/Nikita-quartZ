@@ -9,17 +9,20 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Vue 3, Nuxt, Vite**
+- 🌱 I’m currently learning **Nuxt, Vite**
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20"/> Frontend vue developer
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-quartZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita-quartZ)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-quartZ&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-quartZ&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-quartZ&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita-quartZ&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikita-quartZ&theme=solarized_dark)
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 
 
 
