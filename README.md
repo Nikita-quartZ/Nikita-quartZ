@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend Developer from Saint Petersburg🇷🇺</h3>
+<h3 align="center">Frontend Developer from Saint Petersburg🇺</h3>
 
 <div id="socials" align="center">
 	<a href="https://t.me/quartZXy">
@@ -35,6 +35,37 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita-quartZ&theme=github_dark"/>
 </div>
 
+
+name: 📅 Isometric commit calendar
+category: github
+description: |
+ This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.
+examples:
+  +full year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg
+  half year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg
+index: 0
+supports:
+ - user
+scopes:
+ - public_access
+inputs:
+
+  plugin_isocalendar:
+    description: |
+ Enable isocalendar plugin
+    type: boolean
+    default: no
+
+  plugin_isocalendar_duration:
+    description: |
+ Time range
+ - `half-year`: 180 days
+ - `full-year`: 1 year
+    type: string
+    default: half-year
+    values:
+ half-year
+ full-year
 
 <!-- ### Hi there 👋
 - 🐍 Frontend vue developer
