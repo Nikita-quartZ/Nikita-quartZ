@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend Developer from Saint Petersburg🇺</h3>
+<h3 align="center">Frontend Developer from Saint Petersburg</h3>
 
 <div id="socials" align="center">
 	<a href="https://t.me/quartZXy">
