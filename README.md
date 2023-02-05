@@ -1,9 +1,12 @@
-<!-- <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-quartZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-quartZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita-quartZ)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<a href="linkedin-url">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-quartZ&theme=solarized_dark)
 
