@@ -5,20 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-quartZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita-quartZ)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-quartZ&theme=solarized_dark)
 
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-quartZ&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-quartZ&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-quartZ&theme=solarized_dark)
 
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-quartZ&theme=solarized_dark)
-
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita-quartZ&theme=solarized_dark)
-
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikita-quartZ&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita-quartZ&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikita-quartZ&theme=solarized_dark)
 
 <!-- ### Hi there 👋
 - 🤓 ITMO University student
