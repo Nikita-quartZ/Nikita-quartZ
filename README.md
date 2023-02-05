@@ -35,11 +35,6 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita-quartZ&theme=github_dark"/>
 </div>
 
-<div align="center">
-	<details open><summary>Full year calendar</summary><img src="https://github.com/Nikita-quartZ/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      <details><summary>Half year calendar</summary><img src="https://github.com/Nikita-quartZ/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-</div>
-
 
 <!-- ### Hi there 👋
 
