@@ -3,28 +3,23 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <div id="socials" align="center">
-	<a href="linkedin-url">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-	</a>
-	<a href="twitter-url">
-		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-	</a>
-	<a href="telegram-url">
+	<a href="[telegram-url](https://t.me/quartZXy)">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-quartZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita-quartZ)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<a href="linkedin-url">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-quartZ&theme=solarized_dark)
+<div id="socials" align="center">
+	![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-quartZ&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-quartZ&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-quartZ&theme=solarized_dark)
+	![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-quartZ&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-quartZ&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita-quartZ&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikita-quartZ&theme=solarized_dark)
+	![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita-quartZ&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikita-quartZ&theme=solarized_dark)
+</div>
+
+
 
 <!-- ### Hi there 👋
 - 🤓 ITMO University student
