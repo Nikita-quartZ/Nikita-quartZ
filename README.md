@@ -32,7 +32,6 @@
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-quartZ&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-quartZ&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita-quartZ&theme=github_dark"/>
 </div>
 
 
