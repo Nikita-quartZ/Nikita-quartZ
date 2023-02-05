@@ -11,6 +11,7 @@
 ### About me
 - 🌱 I’m currently learning **Nuxt, Vite**
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20"/> Frontend vue developer
+- 🤓 ITMO University student
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
@@ -28,7 +29,6 @@
 
 
 <!-- ### Hi there 👋
-- 🤓 ITMO University student
 - 🐍 Frontend vue developer
 
 **Nikita-quartZ/Nikita-quartZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
