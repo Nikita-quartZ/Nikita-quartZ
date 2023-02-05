@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-quartZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![](https://komarev.com/ghpvc/?username=Nikita-quartZ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-quartZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikita-quartZ)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- ### Hi there 👋
