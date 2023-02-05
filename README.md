@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <div id="socials" align="center">
-	<a href="[telegram-url](https://t.me/quartZXy)">
+	<a href="https://t.me/quartZXy">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
