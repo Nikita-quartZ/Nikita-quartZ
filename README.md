@@ -10,7 +10,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Nuxt, Vite**
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20"/> Frontend vue developer
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20"/> Frontend Vue developer
 - 🤓 ITMO University student
 
 ### Languages and tools
@@ -31,7 +31,6 @@
 ### My stat
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-quartZ&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-quartZ&theme=github_dark"/>
 </div>
 
 
