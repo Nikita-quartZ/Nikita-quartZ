@@ -28,7 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>
 
-<h1 style="text-align: center;">My stat</h1>
+<h1 style="text-align: center; width: 100%; ">My stat</h1>
+
 ### My stat
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-quartZ&theme=github_dark"/>
