@@ -9,7 +9,6 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Nuxt, Vite**
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20"/> Frontend Vue developer
 - 🤓 ITMO University student
 
@@ -27,8 +26,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>
-
-<h1 style="text-align: center; width: 100%; ">My stat</h1>
 
 ### My stat
 <div id="stat" align="center">
