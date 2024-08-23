@@ -8,6 +8,8 @@
 	</a>
 </div>
 
+-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg](https://avatars.mds.yandex.net/i?id=1cf04a6f38f0be15415a0c35010d27a33267ef19-4589186-images-thumbs&n=13)" width="20" height="20"/> Frontend vue developer
+
 ### About me
 - 🌱 I’m currently learning **Nuxt, Vite**
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20"/> Frontend vue developer
