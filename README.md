@@ -9,7 +9,7 @@
 </div>
 
 ### About me
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20"/> Frontend Vue developer
+-  Frontend React Vue developer
 - 🤓 ITMO University student
 
 ### Languages and tools
